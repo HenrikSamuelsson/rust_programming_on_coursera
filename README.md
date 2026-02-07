@@ -17,6 +17,10 @@ Work in this repository emphasizes:
 
 The end goal is not specialization completion alone, but a durable Rust skill set that can be transferred to domains such as systems software, backend development, data engineering, or embedded systems.
 
+## Tooling
+
+Development is done locally using Visual Studio Code and the Rust toolchain. Cloud-based environments and AI autocomplete tools are intentionally avoided to keep the learning process transparent and reproducible.
+
 ## Status
 
 In progress.
