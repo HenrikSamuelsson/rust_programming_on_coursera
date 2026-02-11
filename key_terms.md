@@ -4,7 +4,7 @@
 
 ## Cargo
 
-Carge is the build system and package manager for Rust projects.
+Cargo is the build system and package manager for Rust projects.
 
 ## R
 
