@@ -1,0 +1,9 @@
+{
+    // Custom dictionary entries for Rust toolchain terminology.
+    // Extends the Code Spell Checker dictionary for this workspace.
+    "cSpell.words": [
+        "MSVC",   // Microsoft Visual C++ toolchain
+        "rustc",  // Rust compiler executable
+        "rustup"  // Rust toolchain installer and manager
+    ]
+}
