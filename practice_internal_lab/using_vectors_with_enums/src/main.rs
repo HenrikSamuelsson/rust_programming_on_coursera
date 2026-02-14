@@ -14,5 +14,5 @@ fn main() {
         })
         .sum();
 
-    println!("Total area: {} sq. units", total_area);
+    println!("Total area: {:.1} sq. units", total_area);
 }
