@@ -3,6 +3,9 @@
     // Extends the Code Spell Checker dictionary for this workspace.
     "cSpell.words": [
         "Barolo",
+        "clippy",
+        "Deque",
+        "Deza",
         "MSVC",
         "Rioja",
         "rustc",
