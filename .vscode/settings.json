@@ -9,7 +9,8 @@
         "MSVC",
         "Rioja",
         "rustc",
-        "rustup"
+        "rustup",
+        "serde"
     ],
     "editor.formatOnSave": true,
     "[rust]": {
