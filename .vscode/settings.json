@@ -3,6 +3,7 @@
     // Extends the Code Spell Checker dictionary for this workspace.
     "cSpell.words": [
         "Barolo",
+        "chrono",
         "clippy",
         "Deque",
         "Deza",
